@@ -16,8 +16,7 @@
 * GitHub
 
 ## Resources
-* [git, 분산 버전 관리 시스템](http://www.yes24.com/24/goods/3676100?scode=032&OzSrank=1), 인사이트
-* [GitHub 사용 설명서](http://www.yes24.com/24/Goods/17638082?Acode=101), 교학사
+* https://rogerdudler.github.io/git-guide/index.ko.html
 * https://try.github.io
 * http://pcottle.github.io/learnGitBranching
 
