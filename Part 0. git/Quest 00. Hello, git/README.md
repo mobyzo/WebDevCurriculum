@@ -16,16 +16,17 @@
 * GitHub
 
 ## Resources
-* https://rogerdudler.github.io/git-guide/index.ko.html
-* https://try.github.io
-* http://pcottle.github.io/learnGitBranching
+* [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
+* [Learn Git Branching](https://learngitbranching.js.org/?locale=ko)
+* [Resources to learn Git](https://try.github.io)
 
 ## Checklist
 * 형상 관리 시스템은 왜 필요한가요? 이 시스템이 개발에 있어서 어떤 도움을 줄까요?
 * 중앙집중형 형상 관리 시스템와 분산형 형상 관리 시스템은 어떻게 다른가요? git은 어디에 속해 있고 왜 그렇게 설계되었을까요?
 * git의 `clone`/`add`/`commit`/`push`/`pull`/`branch`/`stash` 명령은 무엇이며 어떨 때 이용하나요? 그리고 어떻게 사용하나요?
-* 만약 직접 형상 관리 시스템을 만든다면 어떤 식으로 이력을 저장하면 좋을지 한 번 생각해 봅시다. 그리고 난 후 다음의 질문에 대해 조사해 봅시다:
-  * git은 실제로 이력을 어떤 식으로 저장하고 관리하나요? 
+* 만약 직접 Git과 같은 형상 관리 시스템을 만든다면 어떤 식으로 이력을 저장하면 좋을지 한 번 생각해 봅시다. 그리고 난 후 다음의 질문에 대해 조사해 봅시다:
+  * git은 실제로 이력을 어떤 식으로 저장하고 관리하나요?
+  * 이런 식의 저장 관리 방법이 어떤 장점을 가지고 있을까요?
 
 ## Quest
 * github에 가입한 뒤, [이 커리큘럼의 github 저장소](https://github.com/Knowre-Dev/WebDevCurriculum)의 우상단의 Fork 버튼을 눌러 자신의 저장소에 복사해 둡니다.
